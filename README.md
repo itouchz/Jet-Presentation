@@ -1,22 +1,22 @@
 # JET PRESENTATION
 > A Presentation Rehearsal Partner for Everyone!
 
-![alt text](https://i.ibb.co/RgFQvFb/Screen-Shot-2020-07-03-at-20-48-05.png "Jet Presentation")
+![](https://i.ibb.co/RgFQvFb/Screen-Shot-2020-07-03-at-20-48-05.png "Jet Presentation")
 
 
 The Azkaban Prison inspired exterior!
 
 ### Showcase Video
-<a href="https://www.youtube.com/watch?v=ybabXxc5N_U" target="_blank"><img src="http://img.youtube.com/vi/ybabXxc5N_U/0.jpg" 
+<a href="https://www.youtube.com/watch?v=ybabXxc5N_U" target="blank"><img src="http://img.youtube.com/vi/ybabXxc5N_U/0.jpg" 
 alt="Jet Presentation: the showcase video" width="640" height="360" border="0" /></a>
 
 ### Project Details
-<a href="http://tiny.cc/jet-presentation-slides" target="_blank"><img src="https://i.ibb.co/QYFVtn5/Screen-Shot-2020-07-03-at-21-26-53.png" alt="Jet Presentation: the slides deck" width="640" height="360" border="0" /></a>
+<a href="http://tiny.cc/jet-presentation-slides" target="blank"><img src="https://i.ibb.co/QYFVtn5/Screen-Shot-2020-07-03-at-21-26-53.png" alt="Jet Presentation: the slides deck" width="640" height="360" border="0" /></a>
 
 ## Prerequisites
 ### Hardwares
 1. Jetson Nano
-<img src="https://pandaparts.oss-ap-northeast-1.aliyuncs.com/JetsonNano-DevKit_Front-Top_Right_trimmed.jpg" alt="jetson nano" width="200"/>
+<img src="https://cdn.sparkfun.com//assets/parts/1/4/9/4/6/16271-NVIDIA_Jetson_Nano_Developer_Kit__V3_-01.jpg" alt="jetson nano" width="200"/>
 
 2. 5 Colored 8mm LEDs with 3-Color Socket Jumper Cable
 <img src="https://www.devicemart.co.kr/data/collect_img/kind_0/goods/large/1383859.jpg" alt="colored LED" width="200"/>
