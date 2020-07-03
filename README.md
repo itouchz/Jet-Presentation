@@ -1,6 +1,8 @@
 # JET PRESENTATION
 > A Presentation Rehearsal Partner for Everyone!
 
+Authors: Patara Trirat (patara.t@kaist.ac.kr), Sakonporn Noree (sakonporn.n@kaist.ac.kr)
+
 ![](https://i.ibb.co/RgFQvFb/Screen-Shot-2020-07-03-at-20-48-05.png "Jet Presentation")
 
 
