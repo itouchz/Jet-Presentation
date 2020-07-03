@@ -12,7 +12,7 @@ import requests
 face_api_url = 'https://jet-face.cognitiveservices.azure.com/face/v1.0/detect'
 
 # subscription key for azure authentication
-headers = {'Ocp-Apim-Subscription-Key': '8004b54f69a04c108cc69f87a6735d40'}
+headers = {'Ocp-Apim-Subscription-Key': '<YOUR SUBSCIPRTION KEY>'}
 
 # option for returned values from the API.
 params = {
